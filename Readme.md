@@ -22,7 +22,7 @@
     * [java图像转码为字符画](http://blog.csdn.net/Al_assad/article/details/53209349)
 
 ## 九宫格分析
-![九宫格分析]()
+![九宫格分析](https://github.com/hepengju/img2txt/blob/master/doc/%E4%B9%9D%E5%AE%AB%E6%A0%BC%E5%88%86%E6%9E%90.png)
 ## 效果示例
-![ASCII]()
-![Unicode]()
+![ASCII](https://github.com/hepengju/img2txt/blob/master/example/ASCII%E5%A4%8D%E6%9D%82%E7%89%88.png)
+![Unicode](https://github.com/hepengju/img2txt/blob/master/example/Unicode%E5%A4%8D%E6%9D%82%E7%89%88.png)
