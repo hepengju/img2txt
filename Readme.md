@@ -20,3 +20,9 @@
 - 参考:
     * [Swift 实现图片转字符画的功能](http://blog.csdn.net/baisnsf/article/details/46670715)
     * [java图像转码为字符画](http://blog.csdn.net/Al_assad/article/details/53209349)
+
+## 九宫格分析
+![九宫格分析]()
+## 效果示例
+![ASCII]()
+![Unicode]()
